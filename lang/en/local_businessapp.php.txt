@@ -1,0 +1,4 @@
+<?php
+$string['pluginname'] = 'Business process';
+$string['pluginadministration'] = 'Business process administration';
+?>
